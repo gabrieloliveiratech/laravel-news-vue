@@ -59,7 +59,7 @@ DB_PASSWORD=senha_aqui
     ```sh
     docker exec -it "container_name" bash
     npm install
-    npm run serve
+    npm run dev
     ```
 
 - The Vue.js application will be available at `http://localhost:8989`.
